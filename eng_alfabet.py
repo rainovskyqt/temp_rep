@@ -6,3 +6,6 @@ class EngAlfabet(Alfabet):
 
 class RusAlfabet(Alfabet):
     pass
+
+class rf_alfabet(Alfabet):
+    pass
